@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghava Ankireddypalle</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Raghava0684/Raghava0684/main/Raghava-banner.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghava0684&label=Profile%20views&color=0e75b6&style=flat" alt="raghava0684" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghava0684" alt="raghava0684" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -28,9 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghava0684&show_icons=true&locale=en" alt="raghava0684" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghava0684&" alt="raghava0684" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Raghava0684&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Raghava0684/Raghava0684/blob/output/github-contribution-grid-snake.svg)
