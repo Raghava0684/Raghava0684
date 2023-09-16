@@ -24,3 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghava0684&show_icons=true&locale=en" alt="raghava0684" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghava0684&" alt="raghava0684" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Raghava0684&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/Raghava0684/Raghava0684/blob/output/github-contribution-grid-snake.svg)
