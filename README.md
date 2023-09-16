@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghava Ankireddypalle</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/Raghava0684/Raghava0684/main/Banner.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghava0684&label=Profile%20views&color=0e75b6&style=flat" alt="raghava0684" /> </p>
 
 - 🌱 I’m currently learning **DevOps**
