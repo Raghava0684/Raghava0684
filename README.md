@@ -3,21 +3,6 @@
 <h3 align="center">A passionate DevOps Engineer From India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghava0684&label=Profile%20views&color=0e75b6&style=flat" alt="raghava0684" /> </p>
 
-//###
-
-//<div align="center">
- // <a href="https://www.linkedin.com/in/piyush-sachdeva/">
-//  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&//labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-//  </a>
- //  <a href="https://www.youtube.com/@techtutorialswithpiyush">
- // <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&//style=for-the-badge" height="25" alt="youtube logo"  />
-//   </a>
-//  <a href="https://www.x.com/@techie_piyush">
-//  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&//style=for-the-badge" height="25" alt="twitter logo"  />
-//</div>
-
-//###
-
 - 🌱 I’m currently learning **DevOps**
 
 - 📝 I regularly write articles on [https://raghav0617.hashnode.dev/](https://raghav0617.hashnode.dev/)
